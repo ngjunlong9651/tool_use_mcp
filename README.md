@@ -14,7 +14,7 @@ Build the function-calling loop, then talk to an MCP server **by hand** (JSON-RP
 Runs **offline**: the "model" is scripted.
 
 ## Slides
-A companion slide deck lives on the author's Claude account (shared link): https://claude.ai/artifact/1Y2oPW5Z6MrLcATas7o41f
+A companion slide deck lives on the author's Claude account (visible only if the author has shared it): https://claude.ai/artifact/1Y2oPW5Z6MrLcATas7o41f
 
 ## Setup
 ```bash
